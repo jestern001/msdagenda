@@ -1,6 +1,5 @@
-**Prerequisite**: Ensure you tag your master branch as _day02_ before working on Day 3 tasks.
-
 # Day 3
+0. Ensure you tag your master branch as day02 before working on Day 3 tasks.
 1. Configure your project to use an embedded database (HSQL) to store Customer data.  (update dependencies in the build file, create schema.sql). **Note:** All fields are mandatory. 
 2. Hard-code 2-3 sample records using data.sql.
 3. Implement the domain and repository layers so they use JPA to access the embedded database.
