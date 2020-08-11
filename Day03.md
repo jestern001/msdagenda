@@ -7,7 +7,9 @@
 5. Implement the Customer data API with full CRUD capabilities using Spring Boot. Ensure you return the appropriate status code and also data where applicable. 
 6. Use the Gradle build process to build and run Customer data API
 7. Use Postman to test service endpoints and verify CRUD capabilities of the service
-8. Test the service endpoints using the front-end react client
+8. Test the service endpoints using the front-end react client. Use the following commands to start the react client:
+  a. npm install
+  b. npm start
 9. Repeat task 1 through 8 to implement and test Event data API
 10. Repeat task 1 through 8 to implement and test Registrations data API
 11. Demonstrate the service and build process
